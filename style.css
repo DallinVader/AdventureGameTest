@@ -2,3 +2,19 @@ body{
     background-image: url("Game.png");
     background-size: 100%;
 }
+
+@font-face{
+    font-family: "PixleText";
+    src: url("PixleText.ttf");
+}
+
+#HomeButton{
+  font-family: "PixleText";
+  background-color: #555555;
+  border-color: black;
+  border-radius: 0px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  padding: 5px 10px;
+}
