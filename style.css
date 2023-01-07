@@ -9,7 +9,6 @@ body{
 }
 
 #HomeButton{
-  position: absolute;
   font-family: "PixleText";
   background-color: #555555;
   border-color: black;
@@ -21,7 +20,6 @@ body{
 }
 
 #ControlsText{
-    position: absolute;
     font-family: "PixleText";
     color: rgba(212, 175, 55, 0.555);
     text-align: center;
