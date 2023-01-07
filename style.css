@@ -18,3 +18,9 @@ body{
   font-size: 20px;
   padding: 5px 10px;
 }
+
+#ControlsText{
+    font-family: "PixleText";
+    color: rgba(212, 175, 55, 0.555);
+    text-align: center;
+}
